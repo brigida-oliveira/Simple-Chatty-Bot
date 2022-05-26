@@ -1,2 +1,2 @@
 # Simple-Chatty-Bot
-Um projeto feito seguindo as instruções de um curso de Hyperskill.
+A project made following instructions of a Hyperskill course.
